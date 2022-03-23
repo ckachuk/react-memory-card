@@ -66,15 +66,15 @@ const Main = (props)=>{
     
 
     const loadCards = availableImages.map((item, index)=>{
-        return (<li key={index}><Card name={item.name}  imageSrc={item.src} onClick= {onClickImageHandler}/></li>)
+        return (<li id={index} key={index}><Card name={item.name}  imageSrc={item.src} onClick= {onClickImageHandler}/></li>)
     })
     
     
 
     return(
-        <div>
+        <div className="main">
+            <Scoreboard currentScore={currentScore} bestScore={bestScore}/>
          <ul className="ulist">
-             <Scoreboard currentScore={currentScore} bestScore={bestScore}/>
              {loadCards}
          </ul>
         </div>
