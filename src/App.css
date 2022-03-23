@@ -20,10 +20,10 @@ body{
 
 .card{
     display: grid;
-    max-width: 170px;
-    height: 230px;
+    max-width: 190px;
+    height: 270px;
     border: solid 3px var(--color3);
-    margin: 10px 10px 10px 40px;
+    margin: 30px 10px 10px 70px;
     justify-content: center;
     
 }
