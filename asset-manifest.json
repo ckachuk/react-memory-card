@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ckachuk/react-memory-card/static/css/main.42a8c650.css",
+    "main.js": "/ckachuk/react-memory-card/static/js/main.a3d5d63b.js",
+    "static/media/cloud9.png": "/ckachuk/react-memory-card/static/media/cloud9.4e417818cec5598e9d56.png",
+    "static/media/g2.png": "/ckachuk/react-memory-card/static/media/g2.f76f431a0495313c41da.png",
+    "static/media/virtuspro.png": "/ckachuk/react-memory-card/static/media/virtuspro.4c0dfdd755a26bba98b1.png",
+    "static/media/og.png": "/ckachuk/react-memory-card/static/media/og.fadcb462fc7ded04c024.png",
+    "static/media/faze.png": "/ckachuk/react-memory-card/static/media/faze.06eec74e66cac22dd365.png",
+    "static/media/teamliquid.png": "/ckachuk/react-memory-card/static/media/teamliquid.ca9ba1971c2769b66b01.png",
+    "static/media/nip.png": "/ckachuk/react-memory-card/static/media/nip.315a53a91def4b2e3a0c.png",
+    "static/media/furia.png": "/ckachuk/react-memory-card/static/media/furia.b1186b6d7bb0c5c23ba7.png",
+    "static/media/navi.png": "/ckachuk/react-memory-card/static/media/navi.406ac957f96da3fd110a.png",
+    "static/media/fnatic.png": "/ckachuk/react-memory-card/static/media/fnatic.c91c9194fca2142450ff.png",
+    "index.html": "/ckachuk/react-memory-card/index.html",
+    "main.42a8c650.css.map": "/ckachuk/react-memory-card/static/css/main.42a8c650.css.map",
+    "main.a3d5d63b.js.map": "/ckachuk/react-memory-card/static/js/main.a3d5d63b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42a8c650.css",
+    "static/js/main.a3d5d63b.js"
+  ]
+}
